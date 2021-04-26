@@ -192,6 +192,7 @@ FLOWS = [
     "profiler",
     "progettihwsw",
     "ps4",
+    "purpleair",
     "pvpc_hourly_pricing",
     "rachio",
     "rainmachine",
